@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-¡VIVA EL SEMEN ESPAÑOL!
+![Based meme](meme.jpg)
 HH
 Use the left arrow to go back!
